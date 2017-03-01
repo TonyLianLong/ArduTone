@@ -1,0 +1,10 @@
+= ArduTone for Arduino =
+
+ArduTone is an Arduino library ported from PX4 firmware. It allows you to play tunes on nearly any Arduino because it only uses standard C++ and arduino functions without any explicit registers.
+For original code, please see:
+https://github.com/PX4/Firmware/blob/master/src/drivers/stm32/tone_alarm/tone_alarm.cpp
+
+== License ==
+
+Copyright (C) 2013, 2016 PX4 Development Team. All rights reserved.
+Copyright (C) 2017 Tony Lian. All rights reserved.
